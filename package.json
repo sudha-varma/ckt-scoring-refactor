@@ -52,7 +52,7 @@
     "method-override": "3.0.0",
     "mongoose": "5.3.2",
     "morgan": "1.9.0",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "sha1": "1.1.1",
     "uuid": "3.3.2",
     "winston": "3.0.0"
